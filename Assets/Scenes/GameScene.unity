@@ -7359,8 +7359,22 @@ MonoBehaviour:
   soundEffectsButton: {fileID: 413813756}
   musicButton: {fileID: 2086858104}
   returnButton: {fileID: 1814270987}
+  moveUpButton: {fileID: 103365948}
+  moveDownButton: {fileID: 799943537}
+  moveLeftButton: {fileID: 382235240}
+  moveRightButton: {fileID: 237578379}
+  interactButton: {fileID: 347506922}
+  interactAltButton: {fileID: 843064388}
+  pauseButton: {fileID: 1206133669}
   soundEffectsText: {fileID: 389079067}
   musicText: {fileID: 83325571}
+  moveUpText: {fileID: 1395080828}
+  moveDownText: {fileID: 1745107848}
+  moveLeftText: {fileID: 907627911}
+  moveRightText: {fileID: 1039694146}
+  interactText: {fileID: 1915311159}
+  interactAltText: {fileID: 524735548}
+  pauseText: {fileID: 1448267634}
 --- !u!1001 &1564928443
 PrefabInstance:
   m_ObjectHideFlags: 0
